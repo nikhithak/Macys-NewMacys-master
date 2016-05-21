@@ -48,6 +48,7 @@
 	#define kCFCoreFoundationVersionNumber_iOS_8_0 1129.15
 #endif
 
+static const CGFloat kPadding2345 = 4.f;
 
 static const CGFloat kPadding = 4.f;
 static const CGFloat kLabelFontSize = 16.f;
